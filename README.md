@@ -6,11 +6,11 @@ This project conducted a comparative experiment on the anomaly detection perform
 ## Requirements 
 
 ```shell
-Cuda >= 10.2
-Python3 >= 3.7
-PyTorch >= 1.8.0
-Torchvision >= 0.11.0
-Imgaug >= 0.4.0 
+cuda >= 10.2
+python3 >= 3.7
+pyTorch >= 1.8.0
+torchvision >= 0.11.0
+imgaug >= 0.4.0 
 ``` 
 
 # Quickstart 
