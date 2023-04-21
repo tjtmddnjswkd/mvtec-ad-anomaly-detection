@@ -18,7 +18,7 @@ imgaug >= 0.4.0
 ## Cloning a repository 
 
 ```shell
-git clone https://github.com/tjtmddnjswkd/DL_TEAM_PROJECT.git 
+git clone https://github.com/tjtmddnjswkd/mvtec-ad-anomaly-detection.git
 ```
 
 ## Prepare a dataset
